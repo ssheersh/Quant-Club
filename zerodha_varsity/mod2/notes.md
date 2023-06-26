@@ -51,11 +51,11 @@ Risk-averse shorts it at the end of second day's closing when he is sure that th
 #### Trade trap
 Don't apply these candlestick patterns on extremely small or large candles. For extremely small candles, the reason is obvious: there is ambiguity in the direction and thus it's hard to identify direction of the trade. 
 
-On the other hand, lengthy candles indicate extreme activity and thus there is a potential for a deep stop-loss. Althought the rewards may be high, in case the pattern fails, the stop-loss would be way too painful
+On the other hand, lengthy candles indicate extreme activity and thus there is a potential for a deep stop-loss. Although the rewards may be high, in case the pattern fails, the stop-loss would be way too painful
 
 2. #### Spinning tops(color agnostic)
 * The candles have a small real body
-* The upper and lower dhadow are almost equal
+* The upper and lower shadow are almost equal
 
 Indicates a lot of drama with the stock:
     * A blue top denotes that the bulls tried to take the tock up, but were unsuccessful
@@ -68,7 +68,7 @@ In a downtrend, the bears were in absolute control. Thus, such a spinning top in
  1. There would be another bout of selling
  2. The markets would reverse direction
 
-The trader now needs to prep for both situations. Suppose he was waiting to go long(i.e. buy), he could probably buy this to get in on the possible uptrend. However, to play it safe, he could test by buying only half the quantity. Suppose he wanted 500 shares, he could noe go long with 250, and wait and watch. If the stock goes up, the trader can average up by buying again.
+The trader now needs to prep for both situations. Suppose he was waiting to go long(i.e. buy), he could probably buy this to get in on the possible uptrend. However, to play it safe, he could test by buying only half the quantity. Suppose he wanted 500 shares, he could not go long with 250, and wait and watch. If the stock goes up, the trader can average up by buying again.
 
 If the stock starts to fall, the trader can exit and book a loss, but then the loss is only half of what he originally would've got.
 
@@ -84,7 +84,7 @@ If bears make an entry, he has booked 50% of the profits and can now book the re
 If the bulls stay, he doesn't get completely out of the market, and continues to enjoy the bull run, albeit at only half the volume
 
 
-In summary, the spinning top implies that there is confusion in the amrkets and that you should minimise your position in that area.
+In summary, the spinning top implies that there is confusion in the markets and that you should minimise your position in that area.
 
 3. #### Dojis
 Same implication as spinning tops but even more extreme as there is no real body.
@@ -94,7 +94,7 @@ Two types:
     * Hammer:(Umbrella in a downtrend)
     * Hanging man:(Umbrella in an uptrend)
 
-Feature: long lower shadow that is atleast twice the real body's size. Negligible upper shadow
+Feature: long lower shadow that is at least twice the real body's size. Negligible upper shadow
 
 #### Psychology for the hammer
 
@@ -102,7 +102,7 @@ Feature: long lower shadow that is atleast twice the real body's size. Negligibl
 
 This means that bulls have garnered up forces and the market trend may change and trader should take a long
 
-Risk taker might buy stock on the same day as hammer formation at around 15:20, and for him the hammer is color agnostic and no violation of rule 1(buy strength sell weakness). Risk-averse might buy the next day after ensureing that it was a blue candle day.
+Risk taker might buy stock on the same day as hammer formation at around 15:20, and for him the hammer is color agnostic and no violation of rule 1(buy strength sell weakness). Risk-averse might buy the next day after ensuring that it was a blue candle day.
  
 Stop loss is at the point when the price goes below the low of the hammer, at which point the hammer has failed.
 
@@ -135,13 +135,13 @@ Two types:
 * Bullish Engulfing pattern
 * Bearish Engulfing pattern
 #### Bullish Engulfing pattern
-THe prior trend has to be a downtrend. The first day (P1) should be a red candle onfirming bearishness. But the second day(P2) registers a large enough blue candle so that it engulfs the P1's red candle. 
+The prior trend has to be a downtrend. The first day (P1) should be a red candle confirming bearishness. But the second day(P2) registers a large enough blue candle so that it engulfs the P1's red candle. 
 
-Psychology is as follows: The P1 candle shows that the bears were in full control, rendering a typical red candle. On the starting of P2, the price still opened at the closing price of P1, but then the bulls suddenly took control and pushed the price upwards, which was unexpected for the bears. This means that thebulls are regaining control and the prices are going to go upwards for sometime now.
+Psychology is as follows: The P1 candle shows that the bears were in full control, rendering a typical red candle. On the starting of P2, the price still opened at the closing price of P1, but then the bulls suddenly took control and pushed the price upwards, which was unexpected for the bears. This means that the bulls are regaining control and the prices are going to go upwards for sometime now.
 
-The trader should now take a long position.Risk taker might buy the stock on the closing time of P2, ensuring that a the candle is now engulfing P1. Risk averse might take it on the day after P2, ensuring a blue candle is made on P2, around the closing price. But if the 3rd day is forming a red candle, the risk averse ignores it.
+The trader should now take a long position.Risk taker might buy the stock on the closing time of P2, ensuring that a candle is now engulfing P1. Risk averse might take it on the day after P2, ensuring a blue candle is made on P2, around the closing price. But if the 3rd day is forming a red candle, the risk averse ignores it.
 
-(It is worth it to take risk on these multiday trade patterns)
+(It is worth it to take risk on these multi day trade patterns)
 
 Stop loss is the lower low b/w P1 and P2, at which point the pattern has failed. 
 
@@ -421,4 +421,295 @@ A lagging indicator lags the market and confirms the trend after it has occured.
 Momentum: The rate at which price changes. The more rapid the change, the higher the momentum(either upwards or downwards)
 
 ### Relative Strength Index-RSI
-Developed by J. Welles Wilder. It's a leading momentum indicator which helps
+Developed by J. Welles Wilder. It's a leading momentum indicator which helps in identifying a trend reversal. RSI oscillates between 0 and 100 and based on latest indicator reading, the expectations are set.
+
+RSI does not comparr, and gives out strongest signals during the peirod of sideways and and non-trending ranges.
+
+The formula to calculate is as follows:
+$$ RSI=100\Big(\frac{RS}{1+RS}\Big)=100-\frac{100}{1+RS}$$
+$$RS= \frac{\text{Average Gain}}{\text{Average loss}}$$
+
+Average gain is the gain in points computed over the number of days observed. Say we observe for two days a stock that was 100 on day 0.
+
+|Day|Close|Points Gain| Points lost|
+|---|-----|-----------|------------|
+|1  |104  |4          |0           |
+|2  |102  |0          |2           |
+|Tot|102  |4          |2           |
+$$\text{Average gain}=\frac{Total \ gain}{Number\ of\ days}=\frac{4}{2}=2$$
+$$\text{Average loss}=\frac{Total \ loss}{Number\ of\ days}=\frac{2}{2}=1$$
+$$RS=\frac{2}{1}=2$$
+$$RSI=100-\frac{100}{1+2}\approx 100-33.3=66.7$$
+Now obviously RSI is calculated over a larger number of days. Typically a 14 period RSI is used.
+Now $RSI \in [0,100)$:
+* When $RSI \in [0,30]$ the security is supposed to be oversold and thus there is probably going to be an upward correction.
+* When $RSI \in [70,100)$ the security is supposed to be overbought and there is probably going to be a downward correction. 
+
+However, remember that RSI generated the most trusty signals in a sideways market. Consider the folowing scenarios:
+* In an uptrend, the RSI is consistenetly stuck in the 100 region
+* In a downtrend, the RSI is consistently stuck in the 0 region.
+
+Thus:
+1. If RSI is fixed for a long time in 100 region(overbought), look for buying instead of shorting.
+2. If RSI is fixed for a long time in 0 region(oversold), look for shorting instead of buying
+3. If RSI starts moving away from 0 region after a long time(above 30), look to take a long position as a stock may have botoomed out in the downtrend.
+4. If RSI starts moving away from the 100 region after a long time(below 70), look to take a short position has the stock may haave topped out
+
+
+#### Note of caution
+None of the parameters should be used with rigidity. For example, the 14 day is just what Wilder needed in the days of 1978(Pink Floyd's the Wall had just come out and would not top the chart until weeks later). the 0 to 30 and 70 to 100 was also what worked for Wilder. 
+
+As the trader gains more experience, these parameters are fine-tuned by them.
+ 
+
+### Moving Average Convergence and Divergence- MACD
+Developed by Gerald Appel in the late 70s(Pink Floyd domination and the Oil Crisis? Terrible time to live, awesome time to listen and short stocks).
+
+MACD is considered the grandfather indicator and still used by traders(duh!), and still consdiered one of the most reliable indicators by momentum traders.
+
+MACD is all about the convergence(hold me closer)/divergence(so far away) of two moving averages.
+
+A standard MACD is calculated using a 12-day x 26-day EMA, based on the closing prices. We subtract the 26-day EMA from 12-day EMA to estimate the convergence-divergence(CD) value. A simple line graph of this value is called the MACD line.
+
+$$MACD= EMA_{12d}-EMA_{26d}$$
+$$MACD \in (-\infty, \infty)$$ 
+
+* A positive MACD indicates the stock is moving up this is bec
+* A negative MACD indicates the stock is moving down.
+
+Some traders argue that going by the MACD means missing out on most of the action and being late to the party. To overcome this, there is an improvisation in the form of an additional MACD component called the 9 day signal line. This 9 day signal line is the 9-day EMA of the MACD line.
+
+
+Thus we now have two lines, the MACD and the 9-day EMA of MACD, and we csn now devise a trading system based on these two, and no longer wait for the x-axis crossover.
+
+1. The sentiment is bullish when MACD crosses above the 9 day EMA, and trader should look for buying opportunities.
+2. The sentiment is bearish when MACD crosses below the 9-day EMA, and the trader should look for selling opportunities.
+
+Remember, that at the end of the day MACD trends are based on MAs and thus show similar properties like MA systems i.e. they work quite well in uptrends and downtrends, but not in a sideways market. 
+
+Again, the parameters of MACD aren't set in stone.
+
+### Bollinger bands
+
+Introduced by John Bollinger in the 1980s, BBs are a reliable indicator used in TA to determine overbought and oversold levels, where a trader will short when it reaches the top of the band and buys when it reaches the bottom of the band.
+
+BB has 3 components:
+1. Middle line which is the 20-day SMA of the close prices
+2. Upper band:$+2\sigma$ of the middle line
+3. Lower band:$-2\sigma$ of the middle line
+
+*Standard deviation*($\sigma$) characterises the *volatility* in finance and both terms are used interchangably.
+
+(Here, $\sigma$ is calculated using the data points from the 20 data points in tha 20-day EMA)
+
+The expectation is that the stock doesn't wander too far from its average, and a price $2\sigma$ means a stock is too expensive relative to its inner worth and hence needs to come down and vice versa for lower line.
+
+BB works like this for trending patterns. If, for example, the stock sticks closer to the upper band, with time, the BB will expand to envelope the stock back. This is called envelope expansion, but this seems to be a failure of the signals generated by the BB.
+
+Thus BB works in a sideways market but fails in a trending market.
+
+
+##### A note on indicators:
+There are hundereds of technical indicators,but one should focus on a few good ones and develop on these gradually with experience
+### The checklist:
+Indicators occupy a lower priority in the checklist than the previous concepts discussed. If these indicators confirm, they kind of act like a multiplier effect, or reducing the volume if the other checks confirm but the indicators don't
+
+The checklist:
+1. The stock should form a recognisable candlestick pattern.
+2. S&R should confirm and stop-losses should be around S&R.
+3. Volumes should confirm
+4. Indicators should confirm:
+
+    i. Scale the size higher if they confirm
+
+    ii. If they don't confirm go ahead with the plan but reduce the volume.
+
+## Topic 8: The Fibonacci Retracements
+
+Fibonacci patterns appear almost everywhere, and they have a use in the stock market. But first, some mathematical observations.
+
+$$S_{fib}=0,1,1,2,3,5,8,13,21,34,55,89,144,233,377,610$$
+$$ a_{n}=a_{n-1}+a_{n-2}$$
+$$ \lim_{n\rightarrow \infty} \frac{a_n}{a_{n-1}}=\phi\approx 1.618 $$
+$$ \lim_{n\rightarrow \infty} \frac{a_{n-1}}{a_{n}}=\frac{1}{\phi}=\phi-1\approx 0.618 $$
+$$ \lim_{n\rightarrow \infty} \frac{a_{n-2}}{a_{n}}=\frac{1}{\phi^2}\approx 0.382 $$
+$$ \lim_{n\rightarrow \infty} \frac{a_{n-3}}{a_{n}}=\frac{1}{\phi^3}\approx 0.236 $$
+
+
+### The relevance to stock markets
+61.8%, 38.2% and 23.6% are often the percentage of retracements after an uptick. This analysis can be applied when there is a noticable uptick or downtick in the market. Every trend usually retraces back before jumping again.
+
+This retracement level forecast is a technique using which one can identify upto which level retracement happens. These retracements are good opportunities to enter  new positions in directions of the trend and position themselves for trade.
+
+For example, if a stock jumps, it may first retrace to 23.6% level, but if it further corrects, it may go to 38.2% and 61.8% levels. 
+
+Similar pattern can be applied to a bounce back after a slump.
+First bounce back 23.6% then if further, 38.2% and 61.8%
+
+### Fibonacci Retracement construction
+As we saw, Fibonacci retracements are movements that go against the trend. To use this Fibonacci retracement, we have to identify the 100% move, which can be an upward or downward rally. Once identified, we connect using Fibonacci retracement tool, available in most major trading platforms. Connect the trough and the crust of the 100% moevemnt.
+
+#### How to use the retracements
+If for example you wanted to buy a stock but then the price suddenly spiked up, the correction provides an opportunity to enter, which we can identify this with Fibonaccis, but only after confirming the other things in checklist i.e. forms a candlestick pattern, stop-loss is at S&R level, and volumes are average. 
+Now if the stop loss also coincides with  Fibonacci then it allows for a strong buy. 
+
+
+## Topic 9: The Dow Theory
+Been around since before the candlesticks, but stil revered in the western world, and a blend of candlesticks and Dow theory is used. 
+
+Introduced by CHarles H Dow who founded the Dow Jones financial news service (now the Wall Street Journal), in which he defined Dow Theory in a series of articles. Will P Hamilton then popularised over 27 years. 
+
+There are many critics since much has changed since the 1900s(global hegemony, global economy and the dollar or pound, and of course music).
+
+### The Dow Theory Principles
+These are 9 tenets: 
+1. *Indices discount everything*: The stock market indices show every info known and unknown, adn recalibrates quickly to any sudden and unexpected event.
+
+2. *There are 3 broad trends in the market overall*: Primary, Secondary and Minor trend
+
+3. *The Primary Trend*: This is the major trend that lasts froma year to several years and indicates the broader multilayer direction of the market. While the long investor may be interested in only this trend, an active trader interests himself in all trends. This primary trend could be an uptrend or a downtrend
+
+4. *The Secondary Trend*: These are corrections to the primary trend. It's useful to think of this as counter reactions to the larger movement like corrections in bull markets and rallies in bearish markets. This lasts from a few weeks to several months.
+
+5. *Minor trends*: Daily fluctuations in the market which some traders call market noise.
+
+6. *All indices must confirm with each other*: We can't confirm a trend based on just one index. For example, the market is bullish only if CNX Nifty, Midcap and Smallcap all move in the same upward direction, not just the CNX Nifty alone.
+
+7. *Volumes must confirm*: The volumes must confirm along with the prices, i.e. in an uptrend the volume rises with price and falls with it; In a downtrend, volumes increase as the price falls and reduce when the price increases.
+
+8. *Sideways markets can substituted secondary markets*: Markets may remain saideways for an extended period and this can be substituted for a secondary trend.
+
+9. *The closing price is the most sacred*: Close is the most sacred as this is what the market decided the stock was worth literally at the end of the day.
+
+
+The Dow theory suggests the markets are made of 3 distinct phases, which are self repeating, These are called the **accumulation phase**, the **Mark-up phase**, and the **Distribution Phase**. 
+
+The accumulation phase occurs right after a steep sell off in the market that would have frustrated many markets participants, which lose any hope of an uptrend. This is where the 'Smart Money' comes in. 
+
+The 'Smart Money' is usually investors who invest for a long term perspective. They invariably seek value investments which is available after such a steep drop. They start to acquire these shares regularly in large volumes over an extended period of time, This is what makes the accumulation phase. The sellers in these phase can also easily find buyers, and prices don't decline further. This is the bottom of the market, and how Support levels are created.
+
+Once the 'Smart Money' absorbs most of this stock, short term traders sense a support forming, which coincides with a bullish sentiment. This rallies the stock to a higher level, initiating the Mark-up phase, where the stock rallies quickly and sharply. The public at large is left out of the rally as people speculate.
+
+Finally when the stock reaches a new high, everyone is talking about the stock and the public starts to invest in it, and this marks the starting of distribution phase. 
+
+The 'Smart Money' and short term traders who got on early will now book profits and offload shares slowly . The public absorbs this selling and provides a support price. This phase has similar properties to accumulation phase. In this phase whenever the prices attempt to go higher, the 'Smart Money' books profits and sells, ultimately loading off their holdings. Over time, this action repeats itself and a resistance level is created.
+
+Finally when the 'Smart Money' is completely off-loaded, there is no support for prices and hence what follows is a complete sell-off and prices falling down the floor, in a phase known as the Markdown Phase.
+
+This cycle then repeats with a fresh accumulation phase. This cycle lasts over a few years. 
+
+It is important to know that no two market cycles are the same, adn the timing of these phases can vary a lot.
+
+The trader now has to form the mentality of looking at the market as being in different phases. 
+
+### The Dow Patterns
+Like in candlesticks, there are a few important patterns in Dow Theory as well, which can be used to identify opportunities. Some patterns of interest:
+
+1. The Double bottom & Double Top formations
+2. The Triple Bottoms & Triple Tops
+3. Range formation
+4. Flag formation
+
+The support and resistance is also a core concept for Dow Theory, but we already discussed a lot about it before, so... here we jump into the patterns.
+
+1. #### The Double bottom & Double top formations
+
+These are  considered trend reversal patterns. 
+
+A double bottom occurs when the price of a stock hits a particular low price level and rebounds back with a quick recovery. Following this, the stock trades at a higher level relative to the low price for at least two weeks(well placed in time). After which the stock attempts to hit back the low price previously made. If the stock holds up and rebounds, a double bottom has formed. 
+
+
+A double bottom is considered bullish and hence one should look at buying opportunities.
+
+
+A double top occurs when the price hits a particular high level but then slumps back, before attempting and backing down again, with the gap being two weeks. 
+
+This double top is considered a bearish pattern and one should look for selling opportunities.
+
+This is doubly confirmed if a similar signaliing candlestick occurs there.
+
+2. #### The triple top and bottoms
+Similar to double bottoms and tops accept the prices are tested thrice. Same implications too. 
+
+As a rule, the more number of times the same price is tested, the more sacred it becomes, kind of like S&R
+
+3. #### Trading range
+This is an extension to the idea of tops and bottoms. The range forms when prices repeatedly hit these levels forming a sideways market or sideways drift. Both the bulls and bears are unsure where the market goes and leaves the long term investors really frustrated.
+
+However, a short term trader can look for opportunities(buy and sell) with reasonable accuracy. The upside capped by resistance and downside capped by the support.
+
+A sideways market with this behaviour is perfect place to blend candlestick patterns with Dow Theory:
+
+    i. The bullish engulfing suggests a long
+
+    ii. Morning doji star suggests a long
+ 
+    iii. Bearish engulfing pattern suggests a short 
+    
+    iv. Bearish harami pattern suggests a short
+
+These are easy to identify with high chance of being profitable. The duration of range can be anywhere between 2 weeks to 2 years. The longer the duration, the wider the range.
+
+
+### Range breakouts
+Stocks do breakout of ranges after a long time. But before the breakout, we need to understand why stocks trade in ranges in the first place.
+
+This happens for two reasons: 
+* When there are no meaningful fundamental triggers that can move the stock – think major announcements, new products, goegraphic expansion, change in management. When there is no exciting or worrying news, the stock is stuck. This stock may remain here for a long time until a meaningful trigger.
+* In anticipation of a big announcement- When market expects a big announcement the stock can swing wildly in wither direction based on the outcome of the announcement. Until the announcement both buyers and sellers are unsure and thus stock enters a range. This range is usually short-lived.
+
+A breakout mor eoften than not suggests a trend formation. The direction is based on the trigger or announcement but what matters is that a breakout happened. However, be wary of a false breakout.
+
+A false breakout when the trigger isn't strong enought o pull the stock in a particular direction. A false breakout happens when a 'not so trigger friendly' even occurs and impatient retail investors react to it. The volumes here are generally low, which means no smart money here. After this false breakout, the stock falls back into the range. 
+
+A true breakout has:
+* High volumes
+* High momentum
+
+### Trading the breakout
+Traders buy the stock as soon as the stock breaks out of range with good volumes. However, there aren't any good ways to figure out momentums will continue to build. Hence the trader should always have stop-losses here as well.
+
+So, if a trader buys aboe the resistance, the stop-loss is the resistance, while the stop-loss for shorting below the support is the support.
+
+The target can then be the upper price of a range which has a width equivalent to the original range.
+
+4. #### Flag formation
+This usually takes place when the stock posts a sustained rally with a steep, almost vertical increase in prices. This pattern is marked by big move+short correction. In the correction phase, the price would generally move within two parallel lines. These patterns take shape of parallelogram or rectangles and have appearances of flag on the pole. The price decline usually lasts b/w 5 and 15 sessions.
+
+The flag allows trader to buy in on the stock again but in a very short time window as prices may jump up again.
+
+Psychology: Market participants are eager to book in profits after the steep rally and sell the stock, which leads to a decline. The smart money is still invested in and only retail investors are doing stuff, leading to the volume being lower. he senitment is still positive, and the stock rallies back.
+
+### The Reward to Risk Ratio(RRR)
+This is a generic concept not limited to Dow Thoery. However, this finds itself being used throughout finance and trading, be it tehcnical or fundamental analysis.
+
+The calculation is very simple. For example, take this short tem trade as follows:
+Entry($E$): 55.75
+Target($T$):57.20
+Stop-loss($S$):53.55
+
+The Reward is $T-E=1.45$ while the risk is $E-S=2.2$ so the $RRR=\frac{1.45}{2.2}\approx 0.65<1$, thus the trade isn't worth it.
+A good trade should be characterised by a rich RRR. Risk takers might take a lower RRR(say close to 1) while more risk averse might take an RRR upwards of 2. 
+
+A beginner should have very high RRR as it provides a margin of safety. 
+
+A trade should qualify the trader's RRR requirement. Otherwise it's just not worth the risk.
+
+### The Grand checklist
+- [ ] The stock should form a recognisable candlestick pattern.
+- [ ] S&R should confirm to the trade and stoploss prices should be arund S&R.
+    * For a long trade, low of the pattern should be around support
+    * For a short trade, high of the pattern should eb around resistance.
+- [ ] Volumes should confirm
+    * Ensure above average volumes on both buy and sell day.
+    * Low volumes are not encourage, and be cautious while making trades when volumes are low. 
+- [ ] Look st the trade from Dow Theory perspective:
+    * Primary and secondary trends. 
+    * Double, triple, and range formation
+    * Recognisable Dow formation
+- [ ] Indicators should confirm
+    * If the indicators confirm, scale the trade size higher. 
+    * If they don't confirm, still go ahead but reduce the trading size.
+- [ ] RRR should be satisfactory
+    * For an active trader, an RRR of 1.5 seems satisfactory.
+
