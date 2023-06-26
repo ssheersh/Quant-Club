@@ -157,7 +157,7 @@ The trader should now take a short position. Risk taker initiates on P2 after en
 Again, it makes sense to be a risk taker here.
 
 #### Presence of a doji 
-In a bearish engulfing pattern, if on P3, there is a doji formation, the bulls are now panicked by the events of P2 and now uncertain from the doji at P3, which means the reins are slipping away, creating weak hands for bulls, and bears now take absoulute ontrol, pushing prices down a spiral.
+In a bearish engulfing pattern, if on P3, there is a doji formation, the bulls are now panicked by the events of P2 and now uncertain from the doji at P3, which means the reins are slipping away, creating weak hands for bulls, and bears now take absoulute control, pushing prices down a spiral.
 
 This creates a very great incentive for the trader to short as the price falls off a cliff.
 
@@ -171,13 +171,13 @@ Two types:
 * The Dark Cloud cover(basically Bearish piercing pattern)
 
 #### Bullish piercing pattern 
-In a bullish piercing pattern, P2's blue candle engulfs between 50% to a 100% of P1's red candle. As long as this is satisfied, all the conclusions of the bullish engulfing pattern apply here. Risk taker initiates the buy at arounf the closing time of P2's candle after ensuring it pierces it. Risk averse initiates the trade only after ensuring P2 is a blue candle on P3. Stop loss is the lower b/w P1 and P2.
+In a bullish piercing pattern, P2's blue candle engulfs between 50% to a 100% of P1's red candle. As long as this is satisfied, all the conclusions of the bullish engulfing pattern apply here. Risk taker initiates the buy at around the closing time of P2's candle after ensuring it pierces it. Risk averse initiates the trade only after ensuring P2 is a blue candle on P3. Stop loss is the lower b/w P1 and P2.
 
 #### The Dark Cloud Cover 
 P2's red candle engulfs b/w 50 to 100% of P1's length. Risk taker shorts around closing of P2 while risk averse initiates short on P3 after ensuring P2 is red candle and ignoring if P3 starts forming z blue candle. Stop-loss is higher b/w P1 and P2's candle.
 
 #### Some commentary by the author
-Stocks in the same sector have similar price movements. But if they move differently,  trading based on engulfing is much more secure than a piercing pattern simply because the contednign forces a re much more stronger there.
+Stocks in the same sector have similar price movements. But if they move differently,  trading based on engulfing is much more secure than a piercing pattern simply because the challenging forces a re much more stronger there.
 
 However, soon in the course, we should check these patterns against a checklist of 5-6 conditions. If a piercing condition satisfies more point in a checklist than the engulfing pattern, the piercing will be preferred.
 
@@ -233,7 +233,7 @@ This is just the inverse of the Morning star pattern and signifies the reversal 
 
 Psychology: Market in uptrend, bulls in control. P1 goes up and closes on high, forming a long blue candle, showing buying accelerations.
 
-On P2, it shows a gap up opening. But then something happens resulting in uncertainity resulting in the formation of a doji or spinning top.
+On P2, it shows a gap up opening. But then something happens resulting in uncertainty resulting in the formation of a doji or spinning top.
 
 On P3, the stock shows a gap down opening, scaring the bulls. The bears are now calling the shots and the stock now forms a red candle lower than P1's opening. 
 
@@ -246,7 +246,7 @@ Trade setup as follows: Short the stock on P3, around 15:20 after validating the
 Stop-loss is now the highest high of these 3 candles.
 
 #### Summary of entries and exits
-* Risk taker initiates trade on the last day of pettern formation around the 15:20 mark, after validating the pattern rules.
+* Risk taker initiates trade on the last day of pattern formation around the 15:20 mark, after validating the pattern rules.
 
 * Risk averse trades the next day after obtaining confirmation. For a long trade, the color is blue, while for short trade the color is red
 
@@ -255,14 +255,14 @@ Stop-loss is now the highest high of these 3 candles.
 * Stop loss for long is lowest low, and stop-loss for short is the highest high.
 
 ## Topic 4: Support and Resistance 
-We hadn't discussed target prices before. We are now going to discuss that. The best way to identify target prices is to identify suppor tand resistance points. The S&R are specific points where there is expectation fo massive buying or selling. The support price has much mor ebuyers than sellers and the resistance price has much  more sellers than buyers. 
+We hadn't discussed target prices before. We are now going to discuss that. The best way to identify target prices is to identify support and resistance points. The S&R are specific points where there is expectation fo massive buying or selling. The support price has much more buyers than sellers and the resistance price has much  more sellers than buyers. 
 
 S&R can also be used to identify entry points as well.
 
 ### Resistance
-This is the price which the stock is not able to breach, and traders expect amximum amount of supply(selling) for the stock. The resistance is always above the current market price. 
+This is the price which the stock is not able to breach, and traders expect maximum amount of supply(selling) for the stock. The resistance is always above the current market price. 
 
-It's very highly probable that the stock is not able to break the resistance and thus it bacomes a critical TA tool in a rising market. It often acts as a trigger to sell. 
+It's very highly probable that the stock is not able to break the resistance and thus it becomes a critical TA tool in a rising market. It often acts as a trigger to sell. 
 
 Resistance can also be used as a target price in a long position, since we know that hitting it generates a whole lot of supply, selling pressure and thus bearish sentiments.
 
@@ -285,11 +285,11 @@ Support can be used as a target price in a short position, since we know it crea
     * Hesitated to move up further after a brief up move
     * Hesitated to move down further after a brief down move
     * Sharp reversals of pattern at a particular price points
-(Kind of like maximas, minimas and inflection points)
+(Kind of like maximum, minimum and inflection points)
 
 * Step 3: Align the price action zones: In a 12 month chart, it is easy to identify many such action zones, but the trick is to identify at least 3 price action zones at the same price level.
 
-An important thing to note is that these aligned price action zones should be well-placed in time to reap maximimum confidence that we are accurately identifying the levels. 
+An important thing to note is that these aligned price action zones should be well-placed in time to reap maximum confidence that we are accurately identifying the levels. 
 
 * Step 4: Fit a horizontal line: Connect the 3 or more price action zones with a horizontal line. Based on where the line is with respect to current market price, this becomes either a support or a resistance.
 
@@ -328,7 +328,7 @@ Volume as a metric on it's own is quite useless. However, when associated with p
 |Decreases| Increases| Bearish|
 |Decreases| Decreases| Caution: weak hands selling|
 
-The increase in volume is generally referenced with respect to tha 10 day moving average of volume.
+The increase in volume is generally referenced with respect to the 10 day moving average of volume.
 
 High Volume => $V_t> \bar{V}_{10d}$ 
 
@@ -344,19 +344,19 @@ The second and fourth rows are explained by the fact that there is only retail i
 
 ### Updated checklist
 1. The stock should form a recognisable candlestick pattern
-2. S&R should confirm the trade, and the stop-loss should be arund S&R.
+2. S&R should confirm the trade, and the stop-loss should be around S&R.
 3. Volumes should confirm to the trade.
 
 ## Topic 6: Moving Averages
 Calculated for the latest n data points. Moving averages for stocks are generally calculated using closing prices as it is the price at which the market finally settles down.
 
 ### Simple moving averages
-A moving average calculated this way is called a simple moving average or SMA. a moving average over 5 days is called a 5 day SMA, which we could then overlay over the candlestick chart to compare
+A moving average calculated this way is called a simple moving average or SMA. A moving average over 5 days is called a 5 day SMA, which we could then overlay over the candlestick chart to compare
 
 ### Exponential moving averages
 An SMA gives equal weightage to each considered data point. However, for something as volatile as stocks, it makes more sense to give weightage to the more recent data than the older one(*markets discount everything*).
 
-By now giving the newness of data importacne, we created an exponential set of weights, and using this scaled set of numbers gives us the exponential moving average 
+By now giving the newness of data importance, we created an exponential set of weights, and using this scaled set of numbers gives us the exponential moving average 
 
 $$
 EMA_{i}=\alpha V_i +(1-\alpha) EMA_{i-1}
@@ -380,7 +380,7 @@ A particular characteristic of such moving average trading systems is that they 
 
 Moving averages will give a lot of buy and sell signals in a sideways market which result in worthless trades if not losses. But one of these trades may happen in an upcoming uptrend which may lead to massive gains.
 
-It's really difficult to segregate the big winner from the smaller trades, and thus you should always stick to the system once you adopt it, since the losses are marginal but the gains fromone big rally are going to be impressive.
+It's really difficult to segregate the big winner from the smaller trades, and thus you should always stick to the system once you adopt it, since the losses are marginal but the gains from one big rally are going to be impressive.
 
 The profit making trade also ensure that the trader is in the trend for as long as the trend lasts, which can last for many months. Thus, MA can be used as proxy for identifying long term investment ideas.
 
@@ -400,9 +400,9 @@ One trading scheme here has combined the plain MA system with these two MAs to s
 
 
 Some popular MA crossover systems are:
-1. 9-day x 21-day: for short terms(upto few trading sessions)
-2. 25-day x 50-day: medium terms(upto few weeks)
-3. 50-day x 100-day: trades last upto a few months
+1. 9-day x 21-day: for short terms(up to few trading sessions)
+2. 25-day x 50-day: medium terms(up to few weeks)
+3. 50-day x 100-day: trades last up to a few months
 4. 100-day x 200-day: to identify long term trades(investment opportunities), can last a year or more.
 
 Remember, all MA systems are in the end trend following systems.
@@ -416,14 +416,14 @@ A leading indicator leads the markets i.e. predicts new trends and reversals bef
 
 A majority of these leading indicators are called oscillators as they oscillate within a bounded range, with it typically bouncing between the extremes, rarely at the mean. Based on the value, the interpretation may vary.
 
-A lagging indicator lags the market and confirms the trend after it has occured. This allows traders to cash in on the trend a bit later, but a bit more assuredly. Moving averages is such a lagging indicator.
+A lagging indicator lags the market and confirms the trend after it has occurred. This allows traders to cash in on the trend a bit later, but a bit more assuredly. Moving averages is such a lagging indicator.
 
 Momentum: The rate at which price changes. The more rapid the change, the higher the momentum(either upwards or downwards)
 
 ### Relative Strength Index-RSI
 Developed by J. Welles Wilder. It's a leading momentum indicator which helps in identifying a trend reversal. RSI oscillates between 0 and 100 and based on latest indicator reading, the expectations are set.
 
-RSI does not comparr, and gives out strongest signals during the peirod of sideways and and non-trending ranges.
+RSI does not compare, and gives out strongest signals during the period of sideways and non-trending ranges.
 
 The formula to calculate is as follows:
 $$ RSI=100\Big(\frac{RS}{1+RS}\Big)=100-\frac{100}{1+RS}$$
@@ -445,19 +445,19 @@ Now $RSI \in [0,100)$:
 * When $RSI \in [0,30]$ the security is supposed to be oversold and thus there is probably going to be an upward correction.
 * When $RSI \in [70,100)$ the security is supposed to be overbought and there is probably going to be a downward correction. 
 
-However, remember that RSI generated the most trusty signals in a sideways market. Consider the folowing scenarios:
-* In an uptrend, the RSI is consistenetly stuck in the 100 region
+However, remember that RSI generated the most trusty signals in a sideways market. Consider the following scenarios:
+* In an uptrend, the RSI is consistently stuck in the 100 region
 * In a downtrend, the RSI is consistently stuck in the 0 region.
 
 Thus:
 1. If RSI is fixed for a long time in 100 region(overbought), look for buying instead of shorting.
 2. If RSI is fixed for a long time in 0 region(oversold), look for shorting instead of buying
-3. If RSI starts moving away from 0 region after a long time(above 30), look to take a long position as a stock may have botoomed out in the downtrend.
-4. If RSI starts moving away from the 100 region after a long time(below 70), look to take a short position has the stock may haave topped out
+3. If RSI starts moving away from 0 region after a long time(above 30), look to take a long position as a stock may have botommed out in the downtrend.
+4. If RSI starts moving away from the 100 region after a long time(below 70), look to take a short position has the stock may have topped out
 
 
 #### Note of caution
-None of the parameters should be used with rigidity. For example, the 14 day is just what Wilder needed in the days of 1978(Pink Floyd's the Wall had just come out and would not top the chart until weeks later). the 0 to 30 and 70 to 100 was also what worked for Wilder. 
+None of the parameters should be used with rigidity. For example, the 14 day is just what Wilder needed in the days of 1978(Pink Floyd's the Wall had just come out and would not top the chart until weeks later). The 0 to 30 and 70 to 100 was also what worked for Wilder. 
 
 As the trader gains more experience, these parameters are fine-tuned by them.
  
@@ -465,7 +465,7 @@ As the trader gains more experience, these parameters are fine-tuned by them.
 ### Moving Average Convergence and Divergence- MACD
 Developed by Gerald Appel in the late 70s(Pink Floyd domination and the Oil Crisis? Terrible time to live, awesome time to listen and short stocks).
 
-MACD is considered the grandfather indicator and still used by traders(duh!), and still consdiered one of the most reliable indicators by momentum traders.
+MACD is considered the grandfather indicator and still used by traders(duh!), and still considered one of the most reliable indicators by momentum traders.
 
 MACD is all about the convergence(hold me closer)/divergence(so far away) of two moving averages.
 
@@ -474,13 +474,13 @@ A standard MACD is calculated using a 12-day x 26-day EMA, based on the closing 
 $$MACD= EMA_{12d}-EMA_{26d}$$
 $$MACD \in (-\infty, \infty)$$ 
 
-* A positive MACD indicates the stock is moving up this is bec
+* A positive MACD indicates the stock is moving up.
 * A negative MACD indicates the stock is moving down.
 
 Some traders argue that going by the MACD means missing out on most of the action and being late to the party. To overcome this, there is an improvisation in the form of an additional MACD component called the 9 day signal line. This 9 day signal line is the 9-day EMA of the MACD line.
 
 
-Thus we now have two lines, the MACD and the 9-day EMA of MACD, and we csn now devise a trading system based on these two, and no longer wait for the x-axis crossover.
+Thus we now have two lines, the MACD and the 9-day EMA of MACD, and we can now devise a trading system based on these two, and no longer wait for the x-axis crossover.
 
 1. The sentiment is bullish when MACD crosses above the 9 day EMA, and trader should look for buying opportunities.
 2. The sentiment is bearish when MACD crosses below the 9-day EMA, and the trader should look for selling opportunities.
@@ -498,7 +498,7 @@ BB has 3 components:
 2. Upper band:$+2\sigma$ of the middle line
 3. Lower band:$-2\sigma$ of the middle line
 
-*Standard deviation*($\sigma$) characterises the *volatility* in finance and both terms are used interchangably.
+*Standard deviation*($\sigma$) characterises the *volatility* in finance and both terms are used interchangeably.
 
 (Here, $\sigma$ is calculated using the data points from the 20 data points in tha 20-day EMA)
 
@@ -510,7 +510,7 @@ Thus BB works in a sideways market but fails in a trending market.
 
 
 ##### A note on indicators:
-There are hundereds of technical indicators,but one should focus on a few good ones and develop on these gradually with experience
+There are hundreds of technical indicators,but one should focus on a few good ones and develop on these gradually with experience
 ### The checklist:
 Indicators occupy a lower priority in the checklist than the previous concepts discussed. If these indicators confirm, they kind of act like a multiplier effect, or reducing the volume if the other checks confirm but the indicators don't
 
@@ -537,9 +537,9 @@ $$ \lim_{n\rightarrow \infty} \frac{a_{n-3}}{a_{n}}=\frac{1}{\phi^3}\approx 0.23
 
 
 ### The relevance to stock markets
-61.8%, 38.2% and 23.6% are often the percentage of retracements after an uptick. This analysis can be applied when there is a noticable uptick or downtick in the market. Every trend usually retraces back before jumping again.
+61.8%, 38.2% and 23.6% are often the percentage of retracements after an uptick. This analysis can be applied when there is a noticeable uptick or downtick in the market. Every trend usually retraces back before jumping again.
 
-This retracement level forecast is a technique using which one can identify upto which level retracement happens. These retracements are good opportunities to enter  new positions in directions of the trend and position themselves for trade.
+This retracement level forecast is a technique using which one can identify up to which level retracement happens. These retracements are good opportunities to enter  new positions in directions of the trend and position themselves for trade.
 
 For example, if a stock jumps, it may first retrace to 23.6% level, but if it further corrects, it may go to 38.2% and 61.8% levels. 
 
@@ -547,7 +547,7 @@ Similar pattern can be applied to a bounce back after a slump.
 First bounce back 23.6% then if further, 38.2% and 61.8%
 
 ### Fibonacci Retracement construction
-As we saw, Fibonacci retracements are movements that go against the trend. To use this Fibonacci retracement, we have to identify the 100% move, which can be an upward or downward rally. Once identified, we connect using Fibonacci retracement tool, available in most major trading platforms. Connect the trough and the crust of the 100% moevemnt.
+As we saw, Fibonacci retracements are movements that go against the trend. To use this Fibonacci retracement, we have to identify the 100% move, which can be an upward or downward rally. Once identified, we connect using Fibonacci retracement tool, available in most major trading platforms. Connect the trough and the crust of the 100% movement.
 
 #### How to use the retracements
 If for example you wanted to buy a stock but then the price suddenly spiked up, the correction provides an opportunity to enter, which we can identify this with Fibonaccis, but only after confirming the other things in checklist i.e. forms a candlestick pattern, stop-loss is at S&R level, and volumes are average. 
@@ -555,7 +555,7 @@ Now if the stop loss also coincides with  Fibonacci then it allows for a strong 
 
 
 ## Topic 9: The Dow Theory
-Been around since before the candlesticks, but stil revered in the western world, and a blend of candlesticks and Dow theory is used. 
+Been around since before the candlesticks, but still revered in the western world, and a blend of candlesticks and Dow theory is used. 
 
 Introduced by CHarles H Dow who founded the Dow Jones financial news service (now the Wall Street Journal), in which he defined Dow Theory in a series of articles. Will P Hamilton then popularised over 27 years. 
 
@@ -563,11 +563,11 @@ There are many critics since much has changed since the 1900s(global hegemony, g
 
 ### The Dow Theory Principles
 These are 9 tenets: 
-1. *Indices discount everything*: The stock market indices show every info known and unknown, adn recalibrates quickly to any sudden and unexpected event.
+1. *Indices discount everything*: The stock market indices show every info known and unknown, and recalibrates quickly to any sudden and unexpected event.
 
 2. *There are 3 broad trends in the market overall*: Primary, Secondary and Minor trend
 
-3. *The Primary Trend*: This is the major trend that lasts froma year to several years and indicates the broader multilayer direction of the market. While the long investor may be interested in only this trend, an active trader interests himself in all trends. This primary trend could be an uptrend or a downtrend
+3. *The Primary Trend*: This is the major trend that lasts from a year to several years and indicates the broader multilayer direction of the market. While the long investor may be interested in only this trend, an active trader interests himself in all trends. This primary trend could be an uptrend or a downtrend
 
 4. *The Secondary Trend*: These are corrections to the primary trend. It's useful to think of this as counter reactions to the larger movement like corrections in bull markets and rallies in bearish markets. This lasts from a few weeks to several months.
 
@@ -577,7 +577,7 @@ These are 9 tenets:
 
 7. *Volumes must confirm*: The volumes must confirm along with the prices, i.e. in an uptrend the volume rises with price and falls with it; In a downtrend, volumes increase as the price falls and reduce when the price increases.
 
-8. *Sideways markets can substituted secondary markets*: Markets may remain saideways for an extended period and this can be substituted for a secondary trend.
+8. *Sideways markets can substituted secondary markets*: Markets may remain sideways for an extended period and this can be substituted for a secondary trend.
 
 9. *The closing price is the most sacred*: Close is the most sacred as this is what the market decided the stock was worth literally at the end of the day.
 
@@ -598,7 +598,7 @@ Finally when the 'Smart Money' is completely off-loaded, there is no support for
 
 This cycle then repeats with a fresh accumulation phase. This cycle lasts over a few years. 
 
-It is important to know that no two market cycles are the same, adn the timing of these phases can vary a lot.
+It is important to know that no two market cycles are the same, and the timing of these phases can vary a lot.
 
 The trader now has to form the mentality of looking at the market as being in different phases. 
 
@@ -626,7 +626,7 @@ A double top occurs when the price hits a particular high level but then slumps 
 
 This double top is considered a bearish pattern and one should look for selling opportunities.
 
-This is doubly confirmed if a similar signaliing candlestick occurs there.
+This is doubly confirmed if a similar signaling candlestick occurs there.
 
 2. #### The triple top and bottoms
 Similar to double bottoms and tops accept the prices are tested thrice. Same implications too. 
@@ -655,12 +655,12 @@ These are easy to identify with high chance of being profitable. The duration of
 Stocks do breakout of ranges after a long time. But before the breakout, we need to understand why stocks trade in ranges in the first place.
 
 This happens for two reasons: 
-* When there are no meaningful fundamental triggers that can move the stock – think major announcements, new products, goegraphic expansion, change in management. When there is no exciting or worrying news, the stock is stuck. This stock may remain here for a long time until a meaningful trigger.
+* When there are no meaningful fundamental triggers that can move the stock – think major announcements, new products, geographic expansion, change in management. When there is no exciting or worrying news, the stock is stuck. This stock may remain here for a long time until a meaningful trigger.
 * In anticipation of a big announcement- When market expects a big announcement the stock can swing wildly in wither direction based on the outcome of the announcement. Until the announcement both buyers and sellers are unsure and thus stock enters a range. This range is usually short-lived.
 
-A breakout mor eoften than not suggests a trend formation. The direction is based on the trigger or announcement but what matters is that a breakout happened. However, be wary of a false breakout.
+A breakout more often than not suggests a trend formation. The direction is based on the trigger or announcement but what matters is that a breakout happened. However, be wary of a false breakout.
 
-A false breakout when the trigger isn't strong enought o pull the stock in a particular direction. A false breakout happens when a 'not so trigger friendly' even occurs and impatient retail investors react to it. The volumes here are generally low, which means no smart money here. After this false breakout, the stock falls back into the range. 
+A false breakout when the trigger isn't strong enough to pull the stock in a particular direction. A false breakout happens when a 'not so trigger friendly' even occurs and impatient retail investors react to it. The volumes here are generally low, which means no smart money here. After this false breakout, the stock falls back into the range. 
 
 A true breakout has:
 * High volumes
@@ -669,7 +669,7 @@ A true breakout has:
 ### Trading the breakout
 Traders buy the stock as soon as the stock breaks out of range with good volumes. However, there aren't any good ways to figure out momentums will continue to build. Hence the trader should always have stop-losses here as well.
 
-So, if a trader buys aboe the resistance, the stop-loss is the resistance, while the stop-loss for shorting below the support is the support.
+So, if a trader buys above the resistance, the stop-loss is the resistance, while the stop-loss for shorting below the support is the support.
 
 The target can then be the upper price of a range which has a width equivalent to the original range.
 
@@ -678,12 +678,12 @@ This usually takes place when the stock posts a sustained rally with a steep, al
 
 The flag allows trader to buy in on the stock again but in a very short time window as prices may jump up again.
 
-Psychology: Market participants are eager to book in profits after the steep rally and sell the stock, which leads to a decline. The smart money is still invested in and only retail investors are doing stuff, leading to the volume being lower. he senitment is still positive, and the stock rallies back.
+Psychology: Market participants are eager to book in profits after the steep rally and sell the stock, which leads to a decline. The smart money is still invested in and only retail investors are doing stuff, leading to the volume being lower. The sentiment is still positive, and the stock rallies back.
 
 ### The Reward to Risk Ratio(RRR)
-This is a generic concept not limited to Dow Thoery. However, this finds itself being used throughout finance and trading, be it tehcnical or fundamental analysis.
+This is a generic concept not limited to Dow Theory. However, this finds itself being used throughout finance and trading, be it technical or fundamental analysis.
 
-The calculation is very simple. For example, take this short tem trade as follows:
+The calculation is very simple. For example, take this short term trade as follows:
 Entry($E$): 55.75
 Target($T$):57.20
 Stop-loss($S$):53.55
@@ -693,13 +693,13 @@ A good trade should be characterised by a rich RRR. Risk takers might take a low
 
 A beginner should have very high RRR as it provides a margin of safety. 
 
-A trade should qualify the trader's RRR requirement. Otherwise it's just not worth the risk.
+A trade should qualify the trader's RRR requirement and appetite for risk. Otherwise it's just not worth the risk.
 
 ### The Grand checklist
 - [ ] The stock should form a recognisable candlestick pattern.
-- [ ] S&R should confirm to the trade and stoploss prices should be arund S&R.
+- [ ] S&R should confirm to the trade and stop-loss prices should be around S&R.
     * For a long trade, low of the pattern should be around support
-    * For a short trade, high of the pattern should eb around resistance.
+    * For a short trade, high of the pattern should be around resistance.
 - [ ] Volumes should confirm
     * Ensure above average volumes on both buy and sell day.
     * Low volumes are not encourage, and be cautious while making trades when volumes are low. 
